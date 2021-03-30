@@ -1,2 +1,2 @@
-# dev-ops
-Created to DevOps related POC
+# Dev-Ops
+Created for DevOps related POC
